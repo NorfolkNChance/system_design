@@ -101,17 +101,17 @@ It generally depends what you are and you will be working on. Also what your lev
 
 Personally I looked into the following architectures:
 
-- [Basics of google search](http://infolab.stanford.edu/~backrub/google.html)
+- [Basics of Google search](http://infolab.stanford.edu/~backrub/google.html)
 - Basics of messaging frameworks like Kafka , queuing architectures like rabbitmq.
 - Broad overview and advantages of Redis , mongodb , cassandra.
 - [Google file system](http://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
-- [Google architecture] (http://highscalability.com/google-architecture)
+- [Google architecture](http://highscalability.com/google-architecture)
 - [Instagram](http://instagram-engineering.tumblr.com/post/13649370142/what-powers-instagram-hundreds-of-instances) and other image based social networks
-- [Memcache scaling by facebook](https://cs.uwaterloo.ca/~brecht/courses/854-Emerging-2014/readings/key-value/fb-memcached-nsdi-2013.pdf)
+- [Memcache scaling by Facebook](https://cs.uwaterloo.ca/~brecht/courses/854-Emerging-2014/readings/key-value/fb-memcached-nsdi-2013.pdf)
 - [Twitter scaling](https://www.youtube.com/watch?v=z8LU0Cj6BOU) and facebook feeds
-- [facebook graph api](https://cs.uwaterloo.ca/~brecht/courses/854-Emerging-2014/readings/data-store/tao-facebook-distributed-datastore-atc-2013.pdf)
-- [facebook haystack needle architecture](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Beaver.pdf)
-- [youtube architecture and optimizations for video](https://www.youtube.com/watch?v=ZW5_eEKEC28)
+- [Facebook graph api](https://cs.uwaterloo.ca/~brecht/courses/854-Emerging-2014/readings/data-store/tao-facebook-distributed-datastore-atc-2013.pdf)
+- [Facebook haystack needle architecture](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Beaver.pdf)
+- [YouTube architecture and optimizations for video](https://www.youtube.com/watch?v=ZW5_eEKEC28)
 
 ## Links to Engineering blogs
 
