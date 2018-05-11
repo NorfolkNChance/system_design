@@ -10,11 +10,11 @@ b) Learn more about how large scale systems work and thought process of designin
 
 ## Index
 - [ ] [Starting point](#start)
-- [ ] [basics](#basics)
+- [ ] [Basics](#basics)
 - [ ] [How to answer in interviews](#howtoans)
 - [ ] [Steps how I approach the system design questions in interviews](#myapproach)
 - [ ] [Common Design questions](#designques)
-- [ ] [architecture](#architecture)
+- [ ] [Architecture](#architecture)
 - [ ] [company engineering blog links](#blog)
 - [ ] [Low on time ?](#tldr)
 
